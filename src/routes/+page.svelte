@@ -33,10 +33,10 @@
 	answer1="First answer"
 	answer2="Second answer"
 	answer3="Third answer"
-	answer4="Fourth answer"
+	answer4="Idk"
 	answer="c"
 >
-	This is the question!
+	Why is the sky blue!
 </Question>
 
 <Question
@@ -47,6 +47,6 @@
 	answer4="Fourth answer"
 	answer="d"
 >
-	This is the question!
+	Why does wood float!
 </Question>
 
