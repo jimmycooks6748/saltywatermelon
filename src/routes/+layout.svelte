@@ -1,16 +1,19 @@
 <div class="background">
-	<div class="layout">
-		<slot />
-	</div>
+    <div class="layout">
+        <slot />
+    </div>
 </div>
 
 <style>
-	.background {
-		position: absolute;
-		inset: 0;
-		background: color green;	}
+    .background {
+        padding: 32px;
+        position: absolute;
+        inset: 0;
+        background-color: pink;
+    }
     .layout {
-         width:100%;
-    max-width: 1024px;
-     margin: 0 auto;}
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+    }
 </style>
